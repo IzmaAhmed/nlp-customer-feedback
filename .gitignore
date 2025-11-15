@@ -1,0 +1,31 @@
+# Python virtual environment
+nlp_env/
+venv/
+env/
+
+# Large data files
+*.csv
+*.csv.zip
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Large model files (if any)
+*.pkl
+*.model
+*.h5
+
+# Large model files
+final_sentiment_model/
+t5-summarizer_results/
+*.safetensors
+*.bin
+*.h5
+*.pkl
