@@ -28,3 +28,7 @@ https://drive.google.com/drive/folders/1WkOJnX55GS8sGLDLo5Os6Hbug6-0FJrX?usp=sha
 2. Place them in the respective folders:
    - `final_sentiment_model/`
    - `t5-summarizer_results/`
+  
+## View Notebooks Online:
+- [Sentiment Analysis Notebook](https://nbviewer.org/github/IzmaAhmed/nlp-customer-feedback/blob/master/sentiment_analysis.ipynb)
+- [Text Summarization Notebook](https://nbviewer.org/github/IzmaAhmed/nlp-customer-feedback/blob/master/text_summarization_2.ipynb)
